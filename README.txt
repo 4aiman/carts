@@ -14,25 +14,9 @@ modifications include:
   get_voxel when hit ignore patch by minermoder27
   searches further up and down for rail when cart falls off rails in order to
     avoid cart getting stuck above or below rails.
+    
+It is also modified by 4aiman (tweaks for Magichet)
 
-License of source code:
------------------------
-WTFPL
-
-License of media (textures, sounds and models):
------------------------------------------------
-CC-0
-
-Authors of media files:
------------------------
-kddekadenz:
-  cart_bottom.png
-  cart_side.png
-  cart_top.png
-
-Zeg9:
-  cart.x
-  cart.png
-
-rarkenin:
-  cart_rail_*.png
+License:
+--------
+GPLv3
